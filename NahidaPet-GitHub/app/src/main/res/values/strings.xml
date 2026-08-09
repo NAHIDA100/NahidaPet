@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">小草神桌宠</string>
-    <string name="pet_service_channel">小草神桌宠服务</string>
-    <string name="notification_title">小草神正在陪你~</string>
-    <string name="notification_text">点击这里返回控制面板</string>
-</resources>
