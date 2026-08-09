@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NahidaPet" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#FF7ECA</item>
+        <item name="colorPrimaryVariant">#D45A9E</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#7ED957</item>
+        <item name="colorSecondaryVariant">#5AB83A</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+    </style>
+</resources>
