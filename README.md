@@ -37,7 +37,7 @@
 | 平台 | 官网 |
 |---|---|
 | DeepSeek | https://platform.deepseek.com |
-| 小米 MiMo | https://dev.mi.com |
+| 小米 MiMo | https://mimo.mi.com/ |
 
 ## 📝 许可证
 
